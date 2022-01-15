@@ -1,1 +1,3 @@
-Ala ma swinie.
+Ala ma swinie
+
+Dodana nowa fukncjonalnosc.
